@@ -37,7 +37,7 @@ A ToDo app solution is required. It consists of a web application where users ca
 
 ### For Codeminos to count you exercise as valid exercise please fork the repo and after finishing from the exercise create a pull request (If you don't know how, follow the images below)
 
-[ ] - Add images after finishing from writing the exercise
+![fork.png](fork.png)
 
 Before you can start the exercises, you must install all of the code necessary to run the exercises. Open the Terminal and run the following command.
 
@@ -54,7 +54,6 @@ npx create-react-app codeminos-todo
 ## Areas of Freedom
 
 - [ ] Its up to you on how the design would look like as long as the Codeminos employee and your future colleague can use it
-- [ ] You can use any authentication system as long as it provide a token on user login
 - [ ] No need to implement the token refresh system
 
 ## Ways of Working
