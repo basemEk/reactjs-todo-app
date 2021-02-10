@@ -61,3 +61,5 @@ npx create-react-app codeminos-todo
 
 - [ ] Please commit and push your changes on every new features that you finish
 - [ ] As a reminder don't forget to send a pull request when you finish from the project
+- [ ] For the authentication and adding data please check the following API documentation on Postman [https://www.getpostman.com/collections/8f50def536eb8befda93](https://www.getpostman.com/collections/8f50def536eb8befda93)
+- [ ] For questions on the test, please open a github issue on the main repo so we could answer it for you and for other applicants in the same time
